@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 //this is the final project 
+//our project is an anime recommendation app
 void main() {
   runApp(Appname());
 }
